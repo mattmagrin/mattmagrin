@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-about 
+here you can find my projects developed with passion and a lot of coffee :)
 
 #### My projects:
 
