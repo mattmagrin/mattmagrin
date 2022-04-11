@@ -16,7 +16,7 @@ here you can find my projects developed with passion and coffee :)
 
 **Data Collecting**: SQL
 
-**Development**: Git, Linux.
+**Development**: Git.
 
 **Data Visualization**: Power BI, Streamlit, Tableau.
 
