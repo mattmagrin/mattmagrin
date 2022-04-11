@@ -4,7 +4,7 @@ here you can find my projects developed with passion and coffee :)
 
 #### My projects:
 
-✨ Game recommendation engine [click here](link.com)
+✨ Game recommendation engine [click here](https://github.com/mattmagrin/game_recommendation_engine/)
 
 ✨ Time Series Regression Applied to Sales Forecasting [click here](link.com)
 
