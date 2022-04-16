@@ -6,7 +6,7 @@ here you can find my projects developed with passion and coffee :)
 
 ✨ Game recommendation engine [click here](https://github.com/mattmagrin/game_recommendation_engine/)
 
-✨ Time Series Regression Applied to Sales Forecasting [click here](https://github.com/mattmagrin/Rossman-Sales-Forecast)
+✨ Time Series Regression Applied to Sales Forecasting [click here](https://github.com/mattmagrin/Sales-Forecast)
 
 -----
 
