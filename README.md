@@ -16,7 +16,7 @@ here you can find my projects developed with passion and coffee :)
 
 **Data Processing and Analysis**: Python,  Pandas, Numpy, Seaborn, Scikit-learn, Scikit-Optimize, XGBoost, Boruta, BeautifulSoup.
 
-**Data Collecting**: SQL, MySQL, PostgreSQL,  SQLite.
+**Data Collecting**: SQL, MySQL, SQLite.
 
 **Development**: Git.
 
